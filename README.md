@@ -56,16 +56,12 @@ Unerry開発のビーコンに反応してクーポンなどを配信したり�
 ・2019年２月～2019年9月
 株式会社フランクアート　業務委託
 MediPlusアプリ運用、改修担当
-
-https://apps.apple.com/app/apple-store/id1249972264?mt=8(appleStore)
-https://play.google.com/store/apps/details?id=jp.co.mediplus.mymediplus&referrer=utm_source%3Dvisitor_pcFooter%26utm_medium%3Dshop%26utm_content%3Dapp(googlePlay)
 iOS(Xcode,Swift+RxSwift)  Android(AndroidStudio,Java+Kotlin+RxJava)　 担当エンジニア
 
 
 ・2017年4月～8月　業務委託
 東京天平インターラクションシステム株式会社　iOSアプリ開発支援
 電気メーカーのIoTで、スマホで照明をコントールするアプリの開発
-https://apps.apple.com/jp/app/connected-lighting-for-home-led/id1169981880
 (Xcode,Objective-C) 担当エンジニア
 
 
@@ -79,10 +75,10 @@ https://assetlead.co.jp　担当エンジニア
 拡散の方法や方向性を一緒に模索。
 WordPressで制作及びwordPressと連携した
 iOS/Android両OSのビューワーアプリの開発（現在配信終了）
-・HEPASマガジン（https://heapsmag.com）
-・Beinspired（https://neutmagazine.com/sayonara-beinspired）←現在は名称を変更して、NEUTマガジンとなっています。
+・HEPASマガジン
+・Beinspired　←現在は名称を変更して、NEUTマガジンとなっています。
 ・HEAPS MEDIAの構築（現在は、サービス終了しています）
-・WAKUWAKU JAPANサイトの改修（https://www.wakuwakujapan.com）
+・WAKUWAKU JAPANサイトの改修
 
 
 == 2014年〜2010年 ================================================================================
