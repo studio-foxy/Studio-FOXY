@@ -21,37 +21,49 @@ HEAPS株式会社の新規メディア（Be inspired現在はNEUT Magazineに改
 <dl>
 <dt>・2019年9月〜現在</dt>
 <dd>某ファミレスアプリの運用改修 iOS(Xcode,Swift)  Android(AndroidStudio,Kotlin)
+  
 iOS＆Android共に、機能追加、改修を担当。アプリ側開発を担当。
+
 ネイティブとVue.JSのハイブリッドアプリ　担当エンジニア</dd>
 </dl>
 
 <dl>
 <dt>・2018〜2019年4月</dt> 
 <dd>某出版社　美容系雑誌アプリの運用改修 iOS(Xcode,Objective-C+Swift)  Android(AndroidStudio,Java)
+  
 iOS＆Android共に、機能追加、改修を担当。アプリ側を担当。
+
 クライアントとの月1の進捗会議に出席し、改修項目、機能などを話し合いで決定。
+
 サーバー側の仕様ぎめ、APIなども決定。
+
 現在、配信終了　担当エンジニア＆ディレクション</dd>
 </dl>
 
 <dl>
 <dt>・2017年</dt> 
 <dd>emioクーポンアプリ（Xcode,Swift3）
+  
 Unerry開発のビーコンに反応してクーポンなどを配信したり、位置情報などから適切な通知を送るUnerry開発のBBSDKを使って制作されたemioのクーポンアプリ。
+
 現在、配信終了　担当エンジニア</dd>
 </dl>
 
 <dl>
 <dt>・2017年</dt> 
 <dd>コカコーラ自販機ビーコン紐ずけアプリ iOSアプリ（Xcode,Swift3）
+  
 自販機に設置されているビーコンを取得して、それをビーコンバンクに登録するビーコン登録メンテアプリ
+
 担当エンジニア</dd>
 </dl>
 
 <dl>
 <dt>・2016年</dt> 
 <dd>スーパーマーケット向けクーポンアプリhiruma （Xcode, Objective-C）
+  
 スーパーマーケット、ビーコン実証実験プロジェクト。
+
 ※現在サービス終了　担当エンジニア</dd>
 </dl>
 
@@ -60,26 +72,32 @@ Unerry開発のビーコンに反応してクーポンなどを配信したり�
 <dl>
 <dt>・2020年１月～2020年3月</dt> 
 <dd>株式会社i3design　業務委託
+  
 洗濯代行サービスECサイトのアプリ化案件のPM担当として参画（コロナ禍になり、開発中断）担当PM</dd>
 </dl>
 
 <dl>
 <dt>・2019年２月～2019年9月</dt> 
 <dd>株式会社フランクアート　業務委託
+  
 MediPlusアプリ運用、改修担当
+
 iOS(Xcode,Swift+RxSwift)  Android(AndroidStudio,Java+Kotlin+RxJava)　 担当エンジニア</dd>
 </dl>
 
 <dl>
 <dt>・2017年4月～8月　業務委託</dt> 
 <dd>東京天平インターラクションシステム株式会社　iOSアプリ開発支援
+  
 電気メーカーのIoTで、スマホで照明をコントールするアプリの開発
+
 (Xcode,Objective-C) 担当エンジニア</dd>
 </dl>
 
 <dl>
 <dt>・2017年3月〜４月</dt> 
 <dd>（知人のデザイナーさんからの依頼で、WordPressでのサイト構築）
+  
 https://assetlead.co.jp　担当エンジニア</dd>
 </dl>
 
