@@ -4,8 +4,10 @@ Application development
 ------ 主な職務内容 ----------------------------------------------------------------
 
 iOS&Androidアプリの開発・Webサイトの制作などをするエンジニア兼サービス開発のPM業務等。<br>
-現在得意な事Swift,Objective-C,Java,Kotlinでのアプリ開発。<br>
-HEAPS株式会社の新規メディア（Be inspired現在はNEUT Magazineに改名）立ち上げに携わる。<br>
+スタジオ・フォクシーとして独立して28年目に突入しています。
+現在、得意な事はSwift,Objective-C,Java,Kotlinでのアプリ開発。WordPressを使ってのサイト制作<br>
+やりたい事は新規サービスのPM業務。
+HEAPS株式会社の新規オウンドメディア（Be inspired現在はNEUT Magazineに改名）立ち上げに携わる。<br>
 現在は、株式会社Unerryと業務委託契約で、受託案件のアプリ開発(iOS,Android）に従事。<br>
 
 ■職務経歴<br>
