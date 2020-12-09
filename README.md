@@ -18,12 +18,12 @@ HEAPS株式会社の新規メディア（Be inspired現在はNEUT Magazineに改
 
 == 現在〜2015年 ======================
 
-
-・2019年9月〜現在
-某ファミレスアプリの運用改修 iOS(Xcode,Swift)  Android(AndroidStudio,Kotlin)
+<dl>
+<dt>・2019年9月〜現在</dt>
+<dd>某ファミレスアプリの運用改修 iOS(Xcode,Swift)  Android(AndroidStudio,Kotlin)
 iOS＆Android共に、機能追加、改修を担当。アプリ側開発を担当。
-ネイティブとVue.JSのハイブリッドアプリ　担当エンジニア
-
+ネイティブとVue.JSのハイブリッドアプリ　担当エンジニア<dd>
+<dl>
 
 ・2018〜2019年4月 
 某出版社　美容系雑誌アプリの運用改修 iOS(Xcode,Objective-C+Swift)  Android(AndroidStudio,Java)
