@@ -1,5 +1,5 @@
 # Studio-FOXY
-Application development 
+Application development（アプリケーションデベロッパー） 
 
 ---- 主な職務内容 ----
 
