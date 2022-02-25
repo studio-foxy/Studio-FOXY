@@ -64,19 +64,19 @@ Unerry開発のビーコンに反応してクーポンなどを配信したり�
 <dl>
 <dt>・2021年9月～2022年01月</dt> 
 <dd>株式会社バイオーム　業務委託</br>
-いきもの図鑑アプリ"バイオーム"のiOSアプリの追加機能開発</dd>
+いきもの図鑑アプリ"バイオーム"のiOSアプリの追加機能開発(Xcode,swift)</dd>
 </dl>
 
 <dl>
 <dt>・2021年9月～2021年10月</dt> 
 <dd>株式会社ジークス　業務委託</br>
-銀行系Androidアプリのモック版開発</dd>
+銀行系Androidアプリのモック版開発(AndroidStudio,Java)</dd>
 </dl>
 
 <dl>
 <dt>・2021年4月～2021年7月</dt> 
 <dd>株式会社STVテック　業務委託</br>
-iOSアプリ（SOFTBANK手話トークアプリ）の開発</dd>
+iOSアプリ（SOFTBANK手話トークアプリ）の開発(Xcode,swift)</dd>
 </dl>
 
 <dl>
