@@ -1,5 +1,5 @@
 # Studio-FOXY
-Application development（アプリケーションデベロッパー） 
+Application developer（アプリケーションデベロッパー） 
 
 ---- 簡単な自己紹介 ----
 
