@@ -62,10 +62,10 @@ Unerry開発のビーコンに反応してクーポンなどを配信したり�
 ※現在サービス終了　担当エンジニア</dd>
 </dl>
 
-下記は、現在から直近 5 年の Unerry 以外の業務委託</br>
+<b>下記は、現在から直近 5 年の Unerry 以外の業務委託</b></br>
 
 <dl>
-<dt>・2022年6月～2023年01月</dt> 
+<dt>・2022年6月～現在</dt> 
 <dd>株式会社LogBuild　業務委託</br>
 Log Walk - 現場管理アプリ　API改修、UI改修(iOS/Android)swift,kotlin</dd>
 </dl>
