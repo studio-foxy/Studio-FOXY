@@ -29,7 +29,7 @@ WordPress を使ってのサイト制作など、たまに案件を見つけて�
 <dl>
 <dt>・2019年9月〜現在</dt>
 <dd>某ファミレスアプリの運用改修iOS(Xcode,Swift)Android(AndroidStudio,Kotlin)</br>
-iOS＆Android共に、機能追加、改修を担当。アプリ側開発を担当。</br>
+iOS＆Android共に、機能追加、改修を担当。フロント側開発を担当。</br>
 ネイティブとVue.JSのハイブリッドアプリ担当エンジニア</dd>
 </dl>
 
