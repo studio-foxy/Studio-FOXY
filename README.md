@@ -66,7 +66,7 @@ Unerry開発のビーコンに反応してクーポンなどを配信したり�
 <b>下記は、2015 年から現在までの Unerry 以外での業務委託</b></br>
 
 <dl>
-<dt>・2022年6月～現在</dt>
+<dt>・2022年6月～2023年3月</dt>
 <dd>株式会社LogBuild業務委託</br>
 LogWalk-現場管理アプリAPI改修、UI改修(iOS/Android)swift,kotlin</dd>
 </dl>
@@ -86,7 +86,7 @@ LogWalk-現場管理アプリAPI改修、UI改修(iOS/Android)swift,kotlin</dd>
 <dl>
 <dt>・2021年4月～2021年7月</dt>
 <dd>株式会社STVテック業務委託</br>
-iOSアプリ（SOFTBANK手話トークアプリ）の開発(Xcode,swift)</dd>
+iOSアプリ（SOFTBANK手話トークアプリ）の開発(Xcode,swift)の実装担当及び外部のAPI開発会社との仕様設計への橋渡しとマネージメント業務</dd>
 </dl>
 
 <dl>
