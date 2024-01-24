@@ -66,6 +66,12 @@ Unerry開発のビーコンに反応してクーポンなどを配信したり�
 <b>下記は、2015 年から現在までの Unerry 以外での業務委託</b></br>
 
 <dl>
+<dt>・2023年8月～2024年1月</dt>
+<dd>株式会社Nossa業務委託</br>
+360度映像を用いたシステムのアプリ開発　機能改善・機能追加(iOS/Android)swift,kotlin</dd>
+</dl>
+
+<dl>
 <dt>・2022年6月～2023年3月</dt>
 <dd>株式会社LogBuild業務委託</br>
 LogWalk-現場管理アプリAPI改修、UI改修(iOS/Android)swift,kotlin</dd>
